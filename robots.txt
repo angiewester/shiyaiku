@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ojagaeyiek.aarhusworks.com/sitemap.xml
